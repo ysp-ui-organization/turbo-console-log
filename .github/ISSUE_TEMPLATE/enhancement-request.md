@@ -2,8 +2,8 @@
 name: Enhancement request
 about: Describe this issue template's purpose here.
 title: ''
-labels: discussion, enhancement
-assignees: Chakroun-Anas
+labels: enhancement
+assignees: ''
 
 ---
 
