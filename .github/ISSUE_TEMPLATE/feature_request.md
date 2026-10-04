@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: discussion, feature
-assignees: Chakroun-Anas
+labels: ''
+assignees: ''
 
 ---
 

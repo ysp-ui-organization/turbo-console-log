@@ -2,8 +2,8 @@
 name: Inconvenience request
 about: Describe this issue template's purpose here.
 title: ''
-labels: discussion, inconvenience
-assignees: Chakroun-Anas
+labels: ''
+assignees: ''
 
 ---
 
